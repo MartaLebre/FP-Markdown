@@ -17,5 +17,5 @@ Marta Lebre
 
 > Metodologias de Desenvolvimento de Software @ 2020
 
-![](C:\Users\Marta Lebre\Desktop\logo_ipl.png)
+![](https://www.ipleiria.pt/wp-content/themes/ipleiria/img/logo_ipl_header.png)
 
