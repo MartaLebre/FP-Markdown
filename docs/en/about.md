@@ -1,1 +1,1 @@
-Site criado para aprender a usar Markdown na escrita de documentação
+Website created to learn how to use Markdown on the documentation writing.

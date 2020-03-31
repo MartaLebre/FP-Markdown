@@ -6,7 +6,7 @@ Marta Lebre
 
 
 
-**Linguagens de programação conhecidas:**
+**Most known programming languages:**
 
 * C
 * Javascript
